@@ -1,3 +1,3 @@
-# holbertonschool-interview
+# holbertonschoo-interview
 
 ### Luis Angel Vargas Mosquera
